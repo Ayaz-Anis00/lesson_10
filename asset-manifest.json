@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lesson_10/static/css/main.f16e6c80.chunk.css",
+    "main.js": "/lesson_10/static/js/main.50ef4d5d.chunk.js",
+    "main.js.map": "/lesson_10/static/js/main.50ef4d5d.chunk.js.map",
+    "runtime~main.js": "/lesson_10/static/js/runtime~main.393c9349.js",
+    "runtime~main.js.map": "/lesson_10/static/js/runtime~main.393c9349.js.map",
+    "static/js/2.37880c3b.chunk.js": "/lesson_10/static/js/2.37880c3b.chunk.js",
+    "static/js/2.37880c3b.chunk.js.map": "/lesson_10/static/js/2.37880c3b.chunk.js.map",
+    "index.html": "/lesson_10/index.html",
+    "precache-manifest.ad78a07a305a73b9a5dd1023cc7e653d.js": "/lesson_10/precache-manifest.ad78a07a305a73b9a5dd1023cc7e653d.js",
+    "service-worker.js": "/lesson_10/service-worker.js",
+    "static/css/main.f16e6c80.chunk.css.map": "/lesson_10/static/css/main.f16e6c80.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/lesson_10/static/media/crown.19ef7b17.svg"
+  }
+}
